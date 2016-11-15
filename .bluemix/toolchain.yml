@@ -15,7 +15,7 @@ sample-repo:
   service_id: githubpublic
   parameters:
     repo_name: "{{name}}"
-    repo_url: https://github.com/ibmcam/cam-toolchain/tree/brbroge-patch-1
+    repo_url: https://github.com/ibmcam/cam-toolchain/
     type: clone
     has_issues: true
 
