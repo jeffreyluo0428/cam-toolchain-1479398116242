@@ -14,7 +14,7 @@ sample-repo:
   service_id: githubpublic
   parameters:
     repo_name: "{{name}}"
-    repo_url: https://github.ibm.com/Orpheus/cam-toolchain
+    repo_url: https://github.com/ibmcam/cam-toolchain/tree/brbroge-patch-1
     type: clone
     has_issues: true
 
